@@ -1,4 +1,4 @@
-# 吉他销售系统3#
+# 学生选课系统#
 # 张墨川#
 ###学生选课
 <img src="https://github.com/zhangmochuan/SRS-homework6/blob/master/%E6%88%AA%E5%9B%BE/%E5%AD%A6%E7%94%9F.png"/>
